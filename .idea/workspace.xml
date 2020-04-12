@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a300f330-eff9-44de-8193-a467ecad2f29" name="Default Changelist" comment="" />
+    <list default="true" id="a300f330-eff9-44de-8193-a467ecad2f29" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/3.1.1 demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/3.1.5 demo2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/3.2.1 bgdemo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/3.2.2 Txtdemo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/3.2.3 font.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/MyCss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/bgstyl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/txtstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2.10.1 article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2.10.2 nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2.10.4 aside.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2.10.5 time.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2.11.1 header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2.11.2 footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2.11.2 hgroup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2.11.3 address.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2.11.3 demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2.12.1 form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2.13.1 control.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2.13.2 list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2.13.3 pattern.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2.13.4 indeterminate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/myStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/3.2.3 fontStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myStyle2.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/myStyle2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stay-home-save-lives-6753651837108752-law.gif" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/stay-home-save-lives-6753651837108752-law.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/test1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/test2.xhtml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,27 +42,40 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="HTML4 File" />
         <option value="XHTML File" />
+        <option value="HTML File" />
         <option value="CSS File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1a49Dzes5vYtBP7HAJp9eLVvbG6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="XHTML File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HTML" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Code\Base\HTML" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Code\Base\HTML" />
       <recent name="C:\Users\Xuanyu\WebstormProjects\Base" />
     </key>
   </component>
@@ -46,6 +91,7 @@
       <updated>1585983883425</updated>
       <workItem from="1585983884682" duration="7055000" />
       <workItem from="1586506411593" duration="921000" />
+      <workItem from="1586518457395" duration="17483000" />
     </task>
     <servers />
   </component>
@@ -53,6 +99,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="142" y="0" key="SettingsEditor" timestamp="1586595867038">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586595867038" />
     <state x="618" y="153" key="run.anything.popup" timestamp="1585988131589">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

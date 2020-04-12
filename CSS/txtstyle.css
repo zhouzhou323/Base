@@ -1,0 +1,22 @@
+body{
+    color: brown;
+}
+#p1{
+    text-transform: capitalize;
+}
+#p2{
+    text-transform: lowercase;
+}
+#p3{
+    text-transform: uppercase;
+}
+#shadow{
+    text-shadow: 5px 5px 2px cornflowerblue ;
+}
+#wrap{
+    width: 100px;
+    text-wrap: normal;
+}
+h3{
+    text-indent: 2em;
+}

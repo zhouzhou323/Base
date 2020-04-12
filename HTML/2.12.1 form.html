@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>form attribute</title>
+</head>
+<body>
+    <form id="testForm">
+        <input type="text">
+    </form>
+<!--ctrl+shift+上下键：行移动-->
+    <textarea form="testForm"></textarea>
+
+    <form id="test1">
+        <input type="submit" name="s1" value="v1" formmethod="get" formaction="xxx1.jsp">提交到xxx1页面
+        <input type="submit" name="s2" value="v2" formmethod="post" formaction="xxx2.jsp">提交到xxx2页面
+        <input type="submit" name="s3" value="v3" formenctype="text/plain" formaction="xxx3.jsp">提交到xxx3页面
+        <input type="submit" name="s3" value="v4" formenctype="application/x-www-form-urlencoded" formaction="xxx3.jsp">提交到xxx3页面
+        <input type="submit" name="s1" value="v5" formtarget="_blank">提交到xxx1页面
+        <input type="submit" name="s2" value="v6" formtarget="_parent">提交到xxx2页面
+        <input type="text">
+        <input type="text" autofocus><br/>
+        <input type="text" required>
+        <button type="submit">提交</button>
+    </form>
+
+    <script>
+        function Validate() {
+            let txtName = document.getElementById("txt_name");
+            let button = document.getElementById("btnValidate");
+            let form = document.getElementById("test2");
+            if (txtName.value.trim()==""){
+                let label = document.createElement("label");
+                form.insertBefore(label,button);
+                txtName.labels[1].innerHTML = "please input name";
+                txtName.labels[1].setAttribute("style","font-size : 9px ; color : red");
+            }
+        }
+    </script>
+    <form id="test2">
+        <label id="label" for="txt_name">name:</label>
+        <input id="txt_name">
+        <input type="button" id="btnValidate" value="验证" onclick="Validate()">
+    </form>
+</body>
+</html>

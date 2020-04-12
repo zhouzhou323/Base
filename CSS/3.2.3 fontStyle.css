@@ -1,0 +1,12 @@
+#p1{
+    font-size:20px;
+    font-family: fantasy;}
+#p2{
+    font-style: italic;
+}
+/*以前css只能用一些安全的字体，以确保用户的浏览器支持，现在CSS3可以自定义一些字体*/
+/*
+@font-face {
+    font-family: myfont;
+    src: url("    把已经下载好的字体放进去 ");
+}*/

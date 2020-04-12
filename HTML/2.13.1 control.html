@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>control</title>
+</head>
+<body>
+    <input type="text" placeholder="please input username">
+    <script>
+        function setValue() {
+            let label = document.getElementById("label");
+            let textbox = label.control;
+            textbox.value = "001100";
+        }
+    </script>
+
+    <form>
+        <label id="label">
+            postcode:
+            <input id="txt_zip" maxlength="6">
+            <small>please input 6 digits</small>
+        </label>
+        <input type="button" value="设置默认值" onclick="setValue()">
+    </form>
+</body>
+</html>

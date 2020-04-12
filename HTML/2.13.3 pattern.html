@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>pattern and selectiondirection</title>
+</head>
+<body>
+    <input pattern="[A-Z]{3}" name="part">
+    <input type="submit">
+
+    <script>
+        function AD() {
+            let control = document.forms[0]["test"];
+            let Direction = control.selectionDirection;
+            alert(Direction);
+        }
+    </script>
+
+    <form>
+        <input type="text" name="test">
+        <input type="button" value="click me" onclick="AD()">
+    </form>
+</body>
+</html>
